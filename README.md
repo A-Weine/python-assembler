@@ -2,7 +2,7 @@ Assembler MIPS básico para Mars 4.5 em Python.
 
 Implementa um montador simples para a arquitetura MIPS, suportado pelo simulador Mars 4.5, e com foco em instruções básicas (sem pseudo-instruções).
 
-## Colaboradores
+**Colaboradores:**
 
 * **Antonio Weine** (https://github.com/A-Weine)
 * **Lucas Alexandre** (https://github.com/lucasalexandreao)
